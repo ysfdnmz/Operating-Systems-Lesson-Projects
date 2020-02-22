@@ -16,12 +16,11 @@ calculate -s number number -> it collects 2 data from represented index.
 ![Alt text](/Screenshots/calculate-s.png?raw=true "Optional Title") 
 
 calculate -r number number -> it collects data between two index.
+(it can't collects last index, a little bug 😀)
 
 ![Alt text](/Screenshots/calculate-r.png?raw=true "Optional Title") 
 
 clear -> it clears your terminal.
-
-(it can't collects last index, a little bug 😀)
 
 
 2-) Thread Project: This project is about Thread Synchronization
